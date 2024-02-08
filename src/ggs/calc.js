@@ -1,4 +1,4 @@
-import playGame from '../inde.js';
+import playGame from '../index.js';
 import getRandomNumber from '../randomizer.js';
 
 const task = 'What is the result of the expression? ';

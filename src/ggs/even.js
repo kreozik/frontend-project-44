@@ -1,4 +1,4 @@
-import playGame from '../inde.js';
+import playGame from '../index.js';
 import getRandomNumber from '../randomizer.js';
 
 const task = 'Answer "yes" if the number is even, otherwise answer "no".';

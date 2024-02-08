@@ -1,4 +1,4 @@
-import playGame from '../inde.js';
+import playGame from '../index.js';
 import getRandomNumber from '../randomizer.js';
 
 const task = 'Answer "yes" if given number is prime. Otherwise answer "no".';
