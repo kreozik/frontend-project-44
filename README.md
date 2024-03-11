@@ -22,15 +22,15 @@ To install "Brain-games", you need:
 
 
 Game Records:
-calc
+* calc
 [![asciicast](https://asciinema.org/a/MwGt4nIPeCnF3tAKEOW7yNxfL.svg)](https://asciinema.org/a/MwGt4nIPeCnF3tAKEOW7yNxfL)
 
 
 
-even
+* even
 [![asciicast](https://asciinema.org/a/krLYrykMQdP0m7JpV1Uoy2b4Q.svg)](https://asciinema.org/a/krLYrykMQdP0m7JpV1Uoy2b4Q)
 
 
 
-gcd
+* gcd
 [![asciicast](https://asciinema.org/a/hwUvVyFBfE376AX8AwTcMAcWN.svg)](https://asciinema.org/a/hwUvVyFBfE376AX8AwTcMAcWN)
