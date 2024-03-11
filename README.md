@@ -8,7 +8,7 @@ for example: Ubuntu 20.04.1 or higher
 
 To install "Brain-games", you need:
 
-* git clone https://github.com/kreozik/frontend-project-44
+* git clone https://github.com/kreozik/frontend-project-44.git
 * cd frontend-project-44
 * make install
 * Choose your game.
